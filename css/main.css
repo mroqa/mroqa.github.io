@@ -5153,7 +5153,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 20px solid #C0C0C0;
   border-radius: 50%;
   height: 180px;
   width: 180px;
@@ -5176,7 +5176,19 @@ Created using IcoMoon - icomoon.io
   border: 15px solid transparent;
   z-index: 9999;
   transition: all .3s ease-out; }
-
+  /*
+  .cc-profile-image a:after {
+	content: "";
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	background-color: linear-gradient(#1a1a1a, #1560bd);
+	display: block;
+	left: 0;
+	z-index: 9;
+		}
+*/
 .cc-profile-image a:hover img {
   transform: scale(1.06, 1.06); }
 
