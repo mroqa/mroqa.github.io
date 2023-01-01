@@ -1,4 +1,6 @@
-                    ######################  Copyright notice #################
+[![pages-build-deployment](https://github.com/mroqa/mroqa.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mroqa/mroqa.github.io/actions/workflows/pages/pages-build-deployment)
+
+                  ######################  Copyright notice #################
 
 this website and its content is copyright protected - © Mohammed Roqa [2022]. All rights reserved.
 
